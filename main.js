@@ -1,5 +1,14 @@
 // Thay đổi nội dung búc thư ở đây
-var letterContent =" Cảm ơn em đã dành thời gian để nhìn những trò trẻ con của anhh và anh có những điều muốn gởi gắm đến tình iu của anhh❤️. Cảm ơn em đã đến bên anhh những lúc anh cô đơn buồn tủi nhất.Cuộc sống thực sự chẳng có ý nghĩa gì nếu không có em. Em làm cho anh luôn cảm thấy đặc biệt và hoàn hảo. Anh chẳng biết nói gì ngoài lời cảm ơn em, anh rất yêu em💕"
+var letterContent ="  TẠI SAO ANH YÊU EM? Anh đã tìm được chính mình trong em—một con người đặc biệt, xinh đẹp, tử tế, đáng yêu và hiền lành. Dù mới gặp em chưa lâu, nhưng em đã khiến anh hiểu thế nào là thực sự có cảm xúc với một người. Em làm anh tin rằng vẫn còn những người có cùng tần số với anh trong tình yêu. Em khiến anh nhận ra rằng thích một người có thể thú vị đến nhường nào, rằng việc theo đuổi và cố gắng để được bên nhau, dù chỉ trong giây lát, cũng là một trải nghiệm đẹp và đầy ý nghĩa. Anh sẽ luôn trân trọng cảm xúc này."
+
+
+
+
+
+
+
+
+"
 
 // Tốc độ viết chữ. Số càng nhỏ tốc độ càng nhanh. 50 là tốc độ khá phù hợp
 durationWrite = 50 
